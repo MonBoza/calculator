@@ -21,5 +21,5 @@ const result2 = subtract(number1, number2);
 const result3 = multiply(number1, number2);
 const result4 = divide(number1, number2);
 //user interface logic
-window.alert("The addition of your numbers equals " + result + " The subtraction of your number equals "  + result2 + " The multiplication of your number equals " + result3 + " The division of your numbers equals "+ result4);
+window.alert(number1 + " + " + number2 + " = " + result + "  " + number1 + " - " + number2 + " = "  + result2 + "  " + number1 + " * " + number2 + " = " + result3 + "  " + number1 + " / " + number2 + " = " + result4);
 
